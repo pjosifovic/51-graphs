@@ -1,0 +1,21 @@
+{
+  "name": "51-extra-graphs",
+  "version": "1.0.0",
+  "description": "Graph lecture on 401d19 CodeFellows",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest -i --coverage",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "data structures",
+    "graphs"
+  ],
+  "author": "Pedja Josifovic",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^4.17.0",
+    "jest": "^22.3.0",
+    "js-priority-queue": "^0.1.5"
+  }
+}
